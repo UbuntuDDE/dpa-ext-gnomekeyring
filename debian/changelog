@@ -1,5 +1,5 @@
-dpa-ext-gnomekeyring (1.0-1) unstable; urgency=medium
+dpa-ext-gnomekeyring (5.0.9-1) impish; urgency=medium
 
-  * Initial release
+  * New upstream release 5.0.9.
 
- -- Deepin <packages@deepin.com>  Mon, 29 Jan 2018 16:37:58 +0800
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Sun, 19 Sep 2021 23:13:29 +0545

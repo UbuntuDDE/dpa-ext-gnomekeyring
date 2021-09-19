@@ -1,11 +1,12 @@
 Source: dpa-ext-gnomekeyring
 Section: devel
 Priority: optional
-Maintainer: Deepin Packages Builder <packages@deepin.com>
+Maintainer: Arun Kumar Pariyar <openarungeek@gmail.com>
+XSBC-Original-Maintainer: Deepin Packages Builder <packages@deepin.com>
 Build-Depends:
  cmake,
  dde-polkit-agent-dev,
- debhelper-compat (= 11),
+ debhelper-compat (= 13),
  libglib2.0-dev,
  libsecret-1-dev,
  qt5-qmake,
